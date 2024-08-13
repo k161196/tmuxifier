@@ -1,6 +1,6 @@
 # Set a custom session root path. Default is `$HOME`.
 # Must be called before `initialize_session`.
-session_root "~/Kiran/work/aadhyatmik/microservices/utility"
+session_root "~/Kiran/work/Aadhyatimik/microservices/utility"
 
 # Create session with specified name if it does not already exist. If no
 # argument is given, session name will be based on layout file name.
